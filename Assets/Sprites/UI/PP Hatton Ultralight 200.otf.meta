@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: beb94dc27ee079a4c8e8721273d1100b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PP Hatton
+  fontNames:
+  - PP Hatton
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a20db704c101b394f98fdb5f8f4cab52, type: 3}
+  - {fileID: 12800000, guid: a63b3c683b3f551418946c5d1e96dd2d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
